@@ -5,8 +5,8 @@
 - 💻 Looking for oppurtunities in Full Stack Software Engineering
 - ✉️ You can reach me with the links below
 
-    [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasonkshiroma@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kason-shiroma/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasonkshiroma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kason-shiroma/)
 
 ##### Languages and Frameworks I use
 
