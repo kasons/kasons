@@ -1,5 +1,4 @@
-## Hi, I'm 
-# Kason Shiroma ✌️
+# Hi, I'm Kason Shiroma ✌️
 
 ### About me
 - Bachelor's of Information and Computer Science from the University of Hawai'i at Manoa
