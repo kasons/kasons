@@ -9,7 +9,6 @@
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasonkshiroma@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kason-shiroma/)
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 <!--
 **kasons/kasons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
