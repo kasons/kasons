@@ -1,7 +1,7 @@
 # Hi, I'm Kason Shiroma ✌️
 
 ### About me
-- 🎓 Bachelor's of Information and Computer Science from the University of Hawai'i at Manoa
+- 🎓 Bachelor's Degree in Information and Computer Science from the University of Hawai'i at Manoa
 - 💻 Looking for oppurtunities in Full Stack Software Engineering
 - ✉️ You can reach me with the links below
 
